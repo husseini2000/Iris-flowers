@@ -37,8 +37,8 @@ This Notebook also was for a task, and the requirements was to create a Decision
 
 * You have to know the basics of machine learning types and the differences among them.
 * You have to basics of libraries like:
-Numby 
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
+- Numby 
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
