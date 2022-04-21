@@ -12,27 +12,33 @@ Id \ SepalLengthCm \ SepalWidthCm \ PetalLengthCm \ PetalWidthCm \ Species.
 
 I created this repositry to test different approches of machine learning techniques on the Iris flower data set and there is another reason that there was a task applied to me from the Sparks Foundation internship, so you will see three different Notebooks based on this dataset each of them applied different technique with good explaination of it:
 ### 1. Iris flowers classification
+
 In this Notebook I applied different classification algorithms to see which of them will give the higher accuracy of its prediction, and of course I made comparison of the reuslts of each one of algrothims I applied.
+
 ### 2. Iris flowers clustering
-This Notebook was for the task, so the requirements was to predict the optimum number of the clusters and represent it visually. I implemeted the K-means Clustering algorthim and before that I made some Exploratory Data Analysis to understand the data more in-depth. Then I explained how to implement the K-means Clustering and to do that I explained how choose the number of clusters k because we assume that we don't know labels because we deal with unsupervised learning problem here, so based on that we must not know the number of clusters k.
-### 3. 
 
+This Notebook was for a task, so the requirements was to predict the optimum number of the clusters and represent it visually. I implemeted the K-means Clustering algorthim and before that I made some Exploratory Data Analysis to understand the data more in-depth. Then I explained how to implement the K-means Clustering and to do that I explained how choose the number of clusters k because we assume that we don't know labels because we deal with unsupervised learning problem here, so based on that we must not know the number of clusters k.
 
-How to impelement simple linear regression using the Python Scikit-Learn library ?
-What are the required Packages for linear regression ?
-Simple explaination of each essential Package I used.
-What are five basic steps to be considered when you’re implementing linear regression ?
-Show how to implement each of these five steps practically in this notebook.
-What are metrics used to evaluate linear regression model ?
+### 3. Decision_tree
+
+This Notebook also was for a task, and the requirements was to create a Decision tree classifier and visualize it graphically. I started by explaining what is the decision tree ? what Decision tree consist of ? how does it work ? then I implemented it, then visualize it graphically.
+
+#### Commens in these Notebooks
+
+1. How to impelement algorthims using the Python Scikit-Learn library ?
+2. What are the required Packages for each algorthim ?
+3. Simple comments in each essential cell.
+4. Basic steps to be considered when you’re implementing algorthim (Headings).
+5. Almost the same metrics used to evaluate algorthims.
 
 ## Getting Started
 
-### Dependencies
+### Prerequisites
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* You have to know the basics of machine learning types and the differences among them.
+* You have to basics of libraries like:
+Numby 
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
